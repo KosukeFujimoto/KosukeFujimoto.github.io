@@ -1,5 +1,27 @@
 @media screen and (max-device-width: 576px) {
 
+.subsection{
+    font-size: larger;
+    margin: 16px 0;
+}
+
+.employment-history{
+    margin: 32px 0;
+}
+
+.employer{
+    font-size: large;
+}
+
+.employment-date{
+    font-size: small;
+}
+.employment-status{
+    font-size: small;
+}
+.employment-team{
+    font-size: small;
+}
 
 .menu-item{
     display: none;
@@ -23,8 +45,8 @@
 
 }
 
-
 footer{
+    color:#C8C3C3;
     padding: 16px 0;
     background-color: black;   
 }
