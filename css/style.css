@@ -1,0 +1,53 @@
+@media screen and (max-device-width: 576px) {
+
+
+.menu-item{
+    display: none;
+}
+
+.menu-item-name{
+    display: none;
+}
+
+.menu-item-image{
+    margin-top: 32px;
+    padding: 16px 0;
+}
+
+.menu-item-name-mobile{
+    display: block;
+    padding: 16px 0;
+}
+
+.menu-item-image{
+
+}
+
+
+footer{
+    padding: 16px 0;
+    background-color: black;   
+}
+
+.footer-item{
+    margin: 0 16px;
+}
+
+}
+
+.menu{
+    background-color: black;
+    color:#C8C3C3;
+}
+
+.employment-history{
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+}
+
+/* .menu-item-name-mobile{
+    display: none;
+} */
+
+/* footer{
+    display:none;   
+} */
