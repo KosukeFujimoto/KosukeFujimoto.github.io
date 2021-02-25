@@ -53,14 +53,11 @@ footer{
 
 }/* end mobile */
 
+
+@media screen and (min-width: 576px) {
 .subsection{
     font-size: larger;
     margin: 16px 0;
-}
-
-.menu{
-    background-color: black;
-    color:#C8C3C3;
 }
 
 .menu-item-image{
@@ -104,10 +101,16 @@ footer{
 }
 
 
-/* .menu-item-name-mobile{
+.menu-item-name-mobile{
     display: none;
 } 
 
 footer{
     display:none;   
-} */
+}
+}
+
+.menu{
+    background-color: black;
+    color:#C8C3C3;
+}
