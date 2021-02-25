@@ -27,16 +27,12 @@
     display: none;
 }
 
-.menu-item-name{
-    display: none;
-}
-
 .menu-item-image{
     margin-top: 32px;
     padding: 16px 0;
 }
 
-.menu-item-name-mobile{
+.menu-item-name{
     display: block;
     padding: 16px 0;
 }
@@ -55,6 +51,11 @@ footer{
     margin: 0 16px;
 }
 
+}/* end mobile */
+
+.subsection{
+    font-size: larger;
+    margin: 16px 0;
 }
 
 .menu{
@@ -62,14 +63,51 @@ footer{
     color:#C8C3C3;
 }
 
-.employment-history{
-    font-family: sans-serif, 'Times New Roman', Times, serif;
+.menu-item-image{
+    margin: 16px 0;
 }
+
+.menu-item-name{
+    margin: 16px 0;
+}
+
+.menu-item{
+    margin: 16px 0;
+}
+
+.menu-item span{
+    margin: 0 8px;
+}
+
+.employment-history{
+    margin: 32px 64px;
+}
+
+.employer{
+    font-size: larger;
+}
+
+.employment-team{
+    font-size: large;
+}
+
+.employment-status{
+    font-size: medium;
+}
+
+.employment-date{
+    font-size: smaller;
+}
+
+.employment-description{
+    font-size: smaller;
+}
+
 
 /* .menu-item-name-mobile{
     display: none;
-} */
+} 
 
-/* footer{
+footer{
     display:none;   
 } */
