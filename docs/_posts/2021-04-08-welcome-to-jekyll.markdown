@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "自由帳"
-date:   2021-04-08 06:26:33 +0900
-categories: jekyll
+title: 自由帳
+date: 2021-04-08 06:26:33 +0900
+category: Jekyll 
+author: Kosuke
+tags: [Jekyll]
+summary: Hello World
 ---
 
 Github.ioを通してウェブサイトを無料でホストできることは以前から知っていたけど、
